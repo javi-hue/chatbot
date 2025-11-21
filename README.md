@@ -1,2 +1,3 @@
 # chatbot
-proyecto de chatbot web con ia integrada base de datos sql backend y frontend
+proyecto de chatbot web con IA integrada ademas de una base de datos en SQLite
+trabajo amateur
